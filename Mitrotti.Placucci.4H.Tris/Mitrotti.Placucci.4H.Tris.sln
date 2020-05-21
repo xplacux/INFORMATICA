@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mitrotti.Placucci.4H.Tris", "Mitrotti.Placucci.4H.Tris.csproj", "{B6F70EE5-BD17-4FA9-A9ED-FC8148AB8906}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{622AF3EC-602A-4F5B-B22B-74DD54A97DE5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6F70EE5-BD17-4FA9-A9ED-FC8148AB8906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F70EE5-BD17-4FA9-A9ED-FC8148AB8906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F70EE5-BD17-4FA9-A9ED-FC8148AB8906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F70EE5-BD17-4FA9-A9ED-FC8148AB8906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABE264AA-442C-43E0-8719-96E1AE645394}
+	EndGlobalSection
+EndGlobal
